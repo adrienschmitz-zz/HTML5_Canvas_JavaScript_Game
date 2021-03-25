@@ -34,7 +34,7 @@
 <b>Technologies:</b>
 
  -[JavaScript] (<a href="https://www.javascript.com/" rel="nofollow">https://www.javascript.com/</a>)<br/>
- -[HTML]
+ -[HTML]<br>
  -[CSS]
  
 
